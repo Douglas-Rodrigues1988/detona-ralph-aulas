@@ -24,7 +24,8 @@ Here are the technologies used in this project.
 ![Posts](https://github.com/Douglas-Rodrigues1988/detona-ralph-aulas/blob/main/src/images/fim.png)
 
 ## Links
-  - Repository: https://github.com/Douglas-Rodrigues1988/detona-ralph-aulas)
+  - Site: https://douglas-rodrigues1988.github.io/detona-ralph-aulas/
+  - Repository: https://github.com/Douglas-Rodrigues1988/detona-ralph-aulas
     - In case of sensitive bugs such as security vulnerabilities, please contact us
       dlorodriguesweb3@gmail.com directly instead of using the issue tracker. We value your effort
       to improve the security and privacy of this project!
